@@ -140,6 +140,12 @@ Explanation of data structures, especially regarding single cell RNA-Seq data.
 [https://www.coursera.org/learn/network-biology/home/welcome](https://www.coursera.org/learn/network-biology/home/welcome)  
 Strategies for dealing with gene sets. Explanations of PCA, hierarchical clustering, and network clustering including the linear algebra that makes these methods possible. 
 
+## Writing and Communication
+
+- **Writing in the Sciences** (In progress)  
+[https://www.coursera.org/learn/sciwrite/](https://www.coursera.org/learn/sciwrite/)  
+A quick course on scientific writing. Releaves anxiety associated with writing and provides practical skills associated with becoming a good and effective writer.
+
 # On my Radar
 
 - **Topics in Computational and Systems Biology** (Only readings available)  
